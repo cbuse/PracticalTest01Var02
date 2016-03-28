@@ -4,16 +4,16 @@
         "source": "/home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "/home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_overlay.xml",
-        "source": "/home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_decor_overlay.xml"
+        "merged": "/home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_expanded_menu_layout.xml"
     },
     {
         "merged": "/home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
         "source": "/home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_expanded_menu_layout.xml"
+        "merged": "/home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_overlay.xml",
+        "source": "/home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_decor_overlay.xml"
     },
     {
         "merged": "/home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/build/intermediates/res/merged/debug/layout/abc_action_bar_home.xml",
@@ -102,5 +102,9 @@
     {
         "merged": "/home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/build/intermediates/res/merged/debug/layout/abc_action_bar_tab.xml",
         "source": "/home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "/home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/build/intermediates/res/merged/debug/layout/activity_second.xml",
+        "source": "/home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/src/main/res/layout/activity_second.xml"
     }
 ]

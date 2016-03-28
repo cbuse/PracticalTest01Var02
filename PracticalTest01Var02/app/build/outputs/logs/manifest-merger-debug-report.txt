@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/src/main/AndroidManifest.xml:2:1-20:12
+ADDED from /home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/src/main/AndroidManifest.xml:2:1-27:12
 	package
 		ADDED from /home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/src/main/AndroidManifest.xml:3:5-78
 		INJECTED from /home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/src/main/AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from /home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/src/main
 		INJECTED from /home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/src/main/AndroidManifest.xml
 		INJECTED from /home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/src/main/AndroidManifest.xml:5:5-18:19
+ADDED from /home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/src/main/AndroidManifest.xml:5:5-25:19
 MERGED from [com.android.support:appcompat-v7:19.1.0] /home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/AndroidManifest.xml:19:5-20
 	android:label
 		ADDED from /home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/src/main/AndroidManifest.xml:8:9-41
@@ -40,6 +40,20 @@ category#android.intent.category.LAUNCHER
 ADDED from /home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/src/main/AndroidManifest.xml:15:17-77
 	android:name
 		ADDED from /home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/src/main/AndroidManifest.xml:15:27-74
+activity#practicaltest01var02.eim.systems.cs.pub.ro.practicaltest01var02.SecondActivity
+ADDED from /home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/src/main/AndroidManifest.xml:18:9-24:20
+	android:label
+		ADDED from /home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/src/main/AndroidManifest.xml:20:13-58
+	android:name
+		ADDED from /home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/src/main/AndroidManifest.xml:19:13-43
+action#.SecondActivity
+ADDED from /home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/src/main/AndroidManifest.xml:21:13-54
+	android:name
+		ADDED from /home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/src/main/AndroidManifest.xml:21:21-51
+category#android.intent.category.DEFAULT
+ADDED from /home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/src/main/AndroidManifest.xml:23:13-72
+	android:name
+		ADDED from /home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/src/main/AndroidManifest.xml:23:23-69
 uses-sdk
 INJECTED from /home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:19.1.0] /home/cristina/PracticalTest01Var02/PracticalTest01Var02/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/AndroidManifest.xml:18:5-42

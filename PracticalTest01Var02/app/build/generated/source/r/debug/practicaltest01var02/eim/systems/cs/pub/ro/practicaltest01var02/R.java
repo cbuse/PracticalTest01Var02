@@ -836,6 +836,10 @@ containing a value of this type.
         public static final int disableHome=0x7f0c0008;
         public static final int dropdown=0x7f0c0013;
         public static final int edit_query=0x7f0c0030;
+        public static final int edit_text_1=0x7f0c003e;
+        public static final int edit_text_2=0x7f0c003f;
+        public static final int edit_text_3=0x7f0c0041;
+        public static final int edit_text_4=0x7f0c0042;
         public static final int end=0x7f0c000c;
         public static final int expand_activities_button=0x7f0c0026;
         public static final int expanded_menu=0x7f0c002c;
@@ -850,6 +854,7 @@ containing a value of this type.
         public static final int never=0x7f0c000d;
         public static final int none=0x7f0c0009;
         public static final int normal=0x7f0c0000;
+        public static final int product=0x7f0c0045;
         public static final int progress_circular=0x7f0c0018;
         public static final int progress_horizontal=0x7f0c0019;
         public static final int radio=0x7f0c002f;
@@ -863,13 +868,18 @@ containing a value of this type.
         public static final int search_plate=0x7f0c0036;
         public static final int search_src_text=0x7f0c0037;
         public static final int search_voice_btn=0x7f0c003b;
+        public static final int set=0x7f0c0043;
         public static final int shortcut=0x7f0c002e;
         public static final int showCustom=0x7f0c0007;
         public static final int showHome=0x7f0c0004;
         public static final int showTitle=0x7f0c0006;
         public static final int split_action_bar=0x7f0c001e;
         public static final int submit_area=0x7f0c0039;
+        public static final int sum=0x7f0c0044;
         public static final int tabMode=0x7f0c0002;
+        public static final int tableLayout1=0x7f0c003c;
+        public static final int tableRow1=0x7f0c003d;
+        public static final int tableRow2=0x7f0c0040;
         public static final int title=0x7f0c002b;
         public static final int top_action_bar=0x7f0c0020;
         public static final int up=0x7f0c0021;
@@ -905,7 +915,8 @@ containing a value of this type.
         public static final int abc_search_view=0x7f040016;
         public static final int abc_simple_decor=0x7f040017;
         public static final int activity_practical_test01_var02_main=0x7f040018;
-        public static final int support_simple_spinner_dropdown_item=0x7f040019;
+        public static final int activity_second=0x7f040019;
+        public static final int support_simple_spinner_dropdown_item=0x7f04001a;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;
@@ -925,6 +936,7 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with=0x7f06000b;
         public static final int abc_shareactionprovider_share_with_application=0x7f06000c;
         public static final int app_name=0x7f06000d;
+        public static final int title_activity_second=0x7f06000e;
     }
     public static final class style {
         /**  Customize your theme here. 
